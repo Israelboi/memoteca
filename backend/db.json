@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Palmeiras melhor do mundo",
+      "autoria": "Israel",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Valeu porco",
+      "autoria": "Nay",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Quando surge o Avi-verde imponente.",
+      "autoria": "Israel",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Que a dureza do prélio não tarda.",
+      "autoria": "Israel",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "No gramado onde luta o aguarda.",
+      "autoria": "Israel",
+      "modelo": "modelo2",
+      "id": 7
+    }
+  ]
+}
